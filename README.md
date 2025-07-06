@@ -5,7 +5,7 @@
 
 ## 📅 Internship Details  
 **Date:** 2025/06/15  
-**Dear Mr./Ms. Sona S**  
+**Dear Ms. Sona S**  
 **AICTE Student ID:** STU680a6ebd16cff1745514173  
 **AICTE Internship ID:** INTERNSHIP_1746416864681834e0e35d8  
 
