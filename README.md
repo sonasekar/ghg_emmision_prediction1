@@ -77,8 +77,7 @@ An AI-based regression model trained on multi-year emission data that predicts *
 **Predicted GHG Emission:**  
 `0.03 tonnes CO₂e` for sample feature input
 ![output_1](https://github.com/user-attachments/assets/58824d22-a367-486f-a615-ac7bd2713edf)
-![Uploading output_2.png…]()
-
+![output_2](https://github.com/user-attachments/assets/bcf931b5-bede-472e-9d83-f95b05d70a93)
 
 ---
 
